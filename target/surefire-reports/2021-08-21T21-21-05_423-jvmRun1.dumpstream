@@ -1,0 +1,84 @@
+# Created at 2021-08-21T21:21:18.823
+Unexpected IOException with stream: 2021-08-21 21:21:18.816  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+
+
+# Created at 2021-08-21T21:21:18.843
+Unexpected IOException with stream: 2021-08-21 21:21:18.842  INFO 2104 --- [           main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+
+
+# Created at 2021-08-21T21:21:18.919
+Unexpected IOException with stream: 2021-08-21 21:21:18.917  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+
+
+# Created at 2021-08-21T21:21:18.924
+Unexpected IOException with stream: 2021-08-21 21:21:18.922  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+
+
+# Created at 2021-08-21T21:21:18.926
+Unexpected IOException with stream: 2021-08-21 21:21:18.925  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+
+
+# Created at 2021-08-21T21:21:18.929
+Unexpected IOException with stream: 2021-08-21 21:21:18.928  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+
+
+# Created at 2021-08-21T21:21:18.931
+Unexpected IOException with stream: 2021-08-21 21:21:18.930  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+
+
+# Created at 2021-08-21T21:21:18.934
+Unexpected IOException with stream: 2021-08-21 21:21:18.933  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+
+
+# Created at 2021-08-21T21:21:18.938
+Unexpected IOException with stream: 2021-08-21 21:21:18.936  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+
+
+# Created at 2021-08-21T21:21:20.591
+Unexpected IOException with stream: 2021-08-21 21:21:20.591  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+
+
+# Created at 2021-08-21T21:21:20.597
+Unexpected IOException with stream: 2021-08-21 21:21:20.597  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+
+
+# Created at 2021-08-21T21:21:20.607
+Unexpected IOException with stream: 2021-08-21 21:21:20.606  INFO 2104 --- [           main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+
+
+# Created at 2021-08-21T21:21:20.617
+Unexpected IOException with stream: 2021-08-21 21:21:20.617  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1629598880616 with initial instances count: 2
+
+
+# Created at 2021-08-21T21:21:20.622
+Unexpected IOException with stream: 2021-08-21 21:21:20.622  INFO 2104 --- [           main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application SERVICE-LOGIC-SERVER with eureka with status UP
+
+
+# Created at 2021-08-21T21:21:20.624
+Unexpected IOException with stream: 2021-08-21 21:21:20.624  INFO 2104 --- [           main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1629598880624, current=UP, previous=STARTING]
+
+
+# Created at 2021-08-21T21:21:20.629
+Unexpected IOException with stream: 2021-08-21 21:21:20.628  INFO 2104 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SERVICE-LOGIC-SERVER/service-logic-server:75a9fe309a1b497f99ec2ba0b4042b99: registering service...
+
+
+# Created at 2021-08-21T21:21:20.649
+Unexpected IOException with stream: 2021-08-21 21:21:20.648  INFO 2104 --- [           main] c.e.l.LogicServerApplicationTests        : Started LogicServerApplicationTests in 12.229 seconds (JVM running for 13.359)
+
+
+# Created at 2021-08-21T21:21:20.659
+Unexpected IOException: 5,1,com.everis.logicserver.LogicServerApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-08-21T21:21:20.847
+Unexpected IOException: 6,1,com.everis.logicserver.LogicServerApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2021-08-21T21:21:20.852
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.everis.logicserver.LogicServerApplicationTests,null,null,null
+
+
+# Created at 2021-08-21T21:21:20.962
+Unexpected IOException with stream: 2021-08-21 21:21:20.962  INFO 2104 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_SERVICE-LOGIC-SERVER/service-logic-server:75a9fe309a1b497f99ec2ba0b4042b99 - registration status: 204
+
+
